@@ -6,7 +6,7 @@
 ### **About Me**  
 - **😄 Pronouns:** She/Her  
 - 🔭 **Currently Working As:**  
-   - A **Data Consultant** at **Deloitte Consulting USI**, where my daily work revolves around **Snowflake**, **Informatica Cloud (IICS)**, and **AWS Cloud**.  
+   - A **Data Consultant**, where my daily work revolves around **Snowflake**, **Informatica Cloud (IICS)**, and **AWS Cloud**.  
    - Designing end-to-end pipelines, optimizing data workflows, and ensuring seamless data analytics for large-scale projects.  
 - 🤘 **Projects:** Started doing personal projects on **data engineering**, **ETL solutions** and **Snowflake-powered tools** to expand my knowledge and skillset.
 
