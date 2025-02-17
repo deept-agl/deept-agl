@@ -31,7 +31,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-444444?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) 
 [![Docker](https://img.shields.io/badge/Docker-4C9EDC?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) 
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-4D86E5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/) 
-[![Jenkins](https://img.shields.io/badge/Jenkins-D86B52?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/) 
 [![JIRA](https://img.shields.io/badge/JIRA-3E72BF?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) 
 [![Confluence](https://img.shields.io/badge/Confluence-1C2E4A?style=for-the-badge&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence)
 
