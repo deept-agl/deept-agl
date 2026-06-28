@@ -6,7 +6,7 @@ I’m always learning something new and enjoy working on projects that have real
 ---
 
 ### 🌿**Fun Facts About Me**
-- 🚴‍♂️ **Cyclist & Fitness Enthusiast:** I love long rides and staying active.  
+- 🚴‍♂️ **Fitness Enthusiast:** I love long cycle rides, running marathons and staying active.  
 - 🎧 **Event Host:** From professional to personal events, I’ve hosted them all!  
 - ❤️ **Volunteer:** I dedicate my spare time to NGOs to make a difference.
 
@@ -14,6 +14,7 @@ I’m always learning something new and enjoy working on projects that have real
 
 ### ✍️**Recent Blogs**
    - Medium
+      - [13 Practical Steps to Build a Data Quality Framework in Snowflake❄️](https://medium.com/@deepti.agl2912/13-practical-steps-to-build-a-data-quality-framework-in-snowflake-%EF%B8%8F-e6edbc272142?sharedUserId=deepti.agl2912)
       - [5 Common Mistakes in Data Modeling for OLAP Systems — And How to Fix Them(The Simple Way)](https://medium.com/@deepti.agl2912/5-common-mistakes-in-data-modeling-for-olap-systems-and-how-to-fix-them-the-simple-way-da136faabe58)
       - [Spark vs Hadoop: Why Spark Took the Lead](https://medium.com/@deepti.agl2912/spark-vs-hadoop-why-spark-took-the-lead-11362a35ea1c)
      - [Everyday Data Engineering Use Cases](https://medium.com/@deepti.agl2912/everyday-data-engineering-use-cases-in-snowflake-1c25ef7dcef9)
